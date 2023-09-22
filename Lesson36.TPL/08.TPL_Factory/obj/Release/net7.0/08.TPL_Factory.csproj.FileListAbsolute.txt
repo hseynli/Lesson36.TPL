@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson36.TPL\08.TPL_Factory\bin\Release\net7.0\08.TPL_Factory.exe
+D:\Projects\VS Projects\Lesson36.TPL\08.TPL_Factory\bin\Release\net7.0\08.TPL_Factory.deps.json
+D:\Projects\VS Projects\Lesson36.TPL\08.TPL_Factory\bin\Release\net7.0\08.TPL_Factory.runtimeconfig.json
+D:\Projects\VS Projects\Lesson36.TPL\08.TPL_Factory\bin\Release\net7.0\08.TPL_Factory.dll
+D:\Projects\VS Projects\Lesson36.TPL\08.TPL_Factory\bin\Release\net7.0\08.TPL_Factory.pdb
+D:\Projects\VS Projects\Lesson36.TPL\08.TPL_Factory\obj\Release\net7.0\08.TPL_Factory.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson36.TPL\08.TPL_Factory\obj\Release\net7.0\08.TPL_Factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson36.TPL\08.TPL_Factory\obj\Release\net7.0\08.TPL_Factory.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\08.TPL_Factory\obj\Release\net7.0\08.TPL_Factory.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson36.TPL\08.TPL_Factory\obj\Release\net7.0\08.TPL_Factory.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\08.TPL_Factory\obj\Release\net7.0\08.TPL_Factory.dll
+D:\Projects\VS Projects\Lesson36.TPL\08.TPL_Factory\obj\Release\net7.0\refint\08.TPL_Factory.dll
+D:\Projects\VS Projects\Lesson36.TPL\08.TPL_Factory\obj\Release\net7.0\08.TPL_Factory.pdb
+D:\Projects\VS Projects\Lesson36.TPL\08.TPL_Factory\obj\Release\net7.0\08.TPL_Factory.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson36.TPL\08.TPL_Factory\obj\Release\net7.0\ref\08.TPL_Factory.dll

@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson36.TPL\09.TPL_Lambda\bin\Release\net7.0\09.TPL_Lambda.exe
+D:\Projects\VS Projects\Lesson36.TPL\09.TPL_Lambda\bin\Release\net7.0\09.TPL_Lambda.deps.json
+D:\Projects\VS Projects\Lesson36.TPL\09.TPL_Lambda\bin\Release\net7.0\09.TPL_Lambda.runtimeconfig.json
+D:\Projects\VS Projects\Lesson36.TPL\09.TPL_Lambda\bin\Release\net7.0\09.TPL_Lambda.dll
+D:\Projects\VS Projects\Lesson36.TPL\09.TPL_Lambda\bin\Release\net7.0\09.TPL_Lambda.pdb
+D:\Projects\VS Projects\Lesson36.TPL\09.TPL_Lambda\obj\Release\net7.0\09.TPL_Lambda.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson36.TPL\09.TPL_Lambda\obj\Release\net7.0\09.TPL_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson36.TPL\09.TPL_Lambda\obj\Release\net7.0\09.TPL_Lambda.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\09.TPL_Lambda\obj\Release\net7.0\09.TPL_Lambda.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson36.TPL\09.TPL_Lambda\obj\Release\net7.0\09.TPL_Lambda.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\09.TPL_Lambda\obj\Release\net7.0\09.TPL_Lambda.dll
+D:\Projects\VS Projects\Lesson36.TPL\09.TPL_Lambda\obj\Release\net7.0\refint\09.TPL_Lambda.dll
+D:\Projects\VS Projects\Lesson36.TPL\09.TPL_Lambda\obj\Release\net7.0\09.TPL_Lambda.pdb
+D:\Projects\VS Projects\Lesson36.TPL\09.TPL_Lambda\obj\Release\net7.0\09.TPL_Lambda.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson36.TPL\09.TPL_Lambda\obj\Release\net7.0\ref\09.TPL_Lambda.dll

@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson36.TPL\17.Parallel.For\bin\Debug\net7.0\17.Parallel.For.exe
+D:\Projects\VS Projects\Lesson36.TPL\17.Parallel.For\bin\Debug\net7.0\17.Parallel.For.deps.json
+D:\Projects\VS Projects\Lesson36.TPL\17.Parallel.For\bin\Debug\net7.0\17.Parallel.For.runtimeconfig.json
+D:\Projects\VS Projects\Lesson36.TPL\17.Parallel.For\bin\Debug\net7.0\17.Parallel.For.dll
+D:\Projects\VS Projects\Lesson36.TPL\17.Parallel.For\bin\Debug\net7.0\17.Parallel.For.pdb
+D:\Projects\VS Projects\Lesson36.TPL\17.Parallel.For\obj\Debug\net7.0\17.Parallel.For.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson36.TPL\17.Parallel.For\obj\Debug\net7.0\17.Parallel.For.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson36.TPL\17.Parallel.For\obj\Debug\net7.0\17.Parallel.For.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\17.Parallel.For\obj\Debug\net7.0\17.Parallel.For.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson36.TPL\17.Parallel.For\obj\Debug\net7.0\17.Parallel.For.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\17.Parallel.For\obj\Debug\net7.0\17.Parallel.For.dll
+D:\Projects\VS Projects\Lesson36.TPL\17.Parallel.For\obj\Debug\net7.0\refint\17.Parallel.For.dll
+D:\Projects\VS Projects\Lesson36.TPL\17.Parallel.For\obj\Debug\net7.0\17.Parallel.For.pdb
+D:\Projects\VS Projects\Lesson36.TPL\17.Parallel.For\obj\Debug\net7.0\17.Parallel.For.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson36.TPL\17.Parallel.For\obj\Debug\net7.0\ref\17.Parallel.For.dll

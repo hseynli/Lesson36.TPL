@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson36.TPL\16.Parallel.Invoke\bin\Release\net7.0\16.Parallel.Invoke.exe
+D:\Projects\VS Projects\Lesson36.TPL\16.Parallel.Invoke\bin\Release\net7.0\16.Parallel.Invoke.deps.json
+D:\Projects\VS Projects\Lesson36.TPL\16.Parallel.Invoke\bin\Release\net7.0\16.Parallel.Invoke.runtimeconfig.json
+D:\Projects\VS Projects\Lesson36.TPL\16.Parallel.Invoke\bin\Release\net7.0\16.Parallel.Invoke.dll
+D:\Projects\VS Projects\Lesson36.TPL\16.Parallel.Invoke\bin\Release\net7.0\16.Parallel.Invoke.pdb
+D:\Projects\VS Projects\Lesson36.TPL\16.Parallel.Invoke\obj\Release\net7.0\16.Parallel.Invoke.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson36.TPL\16.Parallel.Invoke\obj\Release\net7.0\16.Parallel.Invoke.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson36.TPL\16.Parallel.Invoke\obj\Release\net7.0\16.Parallel.Invoke.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\16.Parallel.Invoke\obj\Release\net7.0\16.Parallel.Invoke.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson36.TPL\16.Parallel.Invoke\obj\Release\net7.0\16.Parallel.Invoke.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\16.Parallel.Invoke\obj\Release\net7.0\16.Parallel.Invoke.dll
+D:\Projects\VS Projects\Lesson36.TPL\16.Parallel.Invoke\obj\Release\net7.0\refint\16.Parallel.Invoke.dll
+D:\Projects\VS Projects\Lesson36.TPL\16.Parallel.Invoke\obj\Release\net7.0\16.Parallel.Invoke.pdb
+D:\Projects\VS Projects\Lesson36.TPL\16.Parallel.Invoke\obj\Release\net7.0\16.Parallel.Invoke.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson36.TPL\16.Parallel.Invoke\obj\Release\net7.0\ref\16.Parallel.Invoke.dll

@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson36.TPL\07.TPL_WaitAll_Any\bin\Release\net7.0\07.TPL_WaitAll_Any.exe
+D:\Projects\VS Projects\Lesson36.TPL\07.TPL_WaitAll_Any\bin\Release\net7.0\07.TPL_WaitAll_Any.deps.json
+D:\Projects\VS Projects\Lesson36.TPL\07.TPL_WaitAll_Any\bin\Release\net7.0\07.TPL_WaitAll_Any.runtimeconfig.json
+D:\Projects\VS Projects\Lesson36.TPL\07.TPL_WaitAll_Any\bin\Release\net7.0\07.TPL_WaitAll_Any.dll
+D:\Projects\VS Projects\Lesson36.TPL\07.TPL_WaitAll_Any\bin\Release\net7.0\07.TPL_WaitAll_Any.pdb
+D:\Projects\VS Projects\Lesson36.TPL\07.TPL_WaitAll_Any\obj\Release\net7.0\07.TPL_WaitAll_Any.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson36.TPL\07.TPL_WaitAll_Any\obj\Release\net7.0\07.TPL_WaitAll_Any.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson36.TPL\07.TPL_WaitAll_Any\obj\Release\net7.0\07.TPL_WaitAll_Any.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\07.TPL_WaitAll_Any\obj\Release\net7.0\07.TPL_WaitAll_Any.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson36.TPL\07.TPL_WaitAll_Any\obj\Release\net7.0\07.TPL_WaitAll_Any.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\07.TPL_WaitAll_Any\obj\Release\net7.0\07.TPL_WaitAll_Any.dll
+D:\Projects\VS Projects\Lesson36.TPL\07.TPL_WaitAll_Any\obj\Release\net7.0\refint\07.TPL_WaitAll_Any.dll
+D:\Projects\VS Projects\Lesson36.TPL\07.TPL_WaitAll_Any\obj\Release\net7.0\07.TPL_WaitAll_Any.pdb
+D:\Projects\VS Projects\Lesson36.TPL\07.TPL_WaitAll_Any\obj\Release\net7.0\07.TPL_WaitAll_Any.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson36.TPL\07.TPL_WaitAll_Any\obj\Release\net7.0\ref\07.TPL_WaitAll_Any.dll

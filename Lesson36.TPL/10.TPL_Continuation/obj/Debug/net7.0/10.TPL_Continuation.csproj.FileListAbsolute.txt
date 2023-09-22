@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson36.TPL\10.TPL_Continuation\bin\Debug\net7.0\10.TPL_Continuation.exe
+D:\Projects\VS Projects\Lesson36.TPL\10.TPL_Continuation\bin\Debug\net7.0\10.TPL_Continuation.deps.json
+D:\Projects\VS Projects\Lesson36.TPL\10.TPL_Continuation\bin\Debug\net7.0\10.TPL_Continuation.runtimeconfig.json
+D:\Projects\VS Projects\Lesson36.TPL\10.TPL_Continuation\bin\Debug\net7.0\10.TPL_Continuation.dll
+D:\Projects\VS Projects\Lesson36.TPL\10.TPL_Continuation\bin\Debug\net7.0\10.TPL_Continuation.pdb
+D:\Projects\VS Projects\Lesson36.TPL\10.TPL_Continuation\obj\Debug\net7.0\10.TPL_Continuation.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson36.TPL\10.TPL_Continuation\obj\Debug\net7.0\10.TPL_Continuation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson36.TPL\10.TPL_Continuation\obj\Debug\net7.0\10.TPL_Continuation.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\10.TPL_Continuation\obj\Debug\net7.0\10.TPL_Continuation.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson36.TPL\10.TPL_Continuation\obj\Debug\net7.0\10.TPL_Continuation.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\10.TPL_Continuation\obj\Debug\net7.0\10.TPL_Continuation.dll
+D:\Projects\VS Projects\Lesson36.TPL\10.TPL_Continuation\obj\Debug\net7.0\refint\10.TPL_Continuation.dll
+D:\Projects\VS Projects\Lesson36.TPL\10.TPL_Continuation\obj\Debug\net7.0\10.TPL_Continuation.pdb
+D:\Projects\VS Projects\Lesson36.TPL\10.TPL_Continuation\obj\Debug\net7.0\10.TPL_Continuation.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson36.TPL\10.TPL_Continuation\obj\Debug\net7.0\ref\10.TPL_Continuation.dll

@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson36.TPL\05.TPL_AsyncState\bin\Debug\net7.0\05.TPL_AsyncState.exe
+D:\Projects\VS Projects\Lesson36.TPL\05.TPL_AsyncState\bin\Debug\net7.0\05.TPL_AsyncState.deps.json
+D:\Projects\VS Projects\Lesson36.TPL\05.TPL_AsyncState\bin\Debug\net7.0\05.TPL_AsyncState.runtimeconfig.json
+D:\Projects\VS Projects\Lesson36.TPL\05.TPL_AsyncState\bin\Debug\net7.0\05.TPL_AsyncState.dll
+D:\Projects\VS Projects\Lesson36.TPL\05.TPL_AsyncState\bin\Debug\net7.0\05.TPL_AsyncState.pdb
+D:\Projects\VS Projects\Lesson36.TPL\05.TPL_AsyncState\obj\Debug\net7.0\05.TPL_AsyncState.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson36.TPL\05.TPL_AsyncState\obj\Debug\net7.0\05.TPL_AsyncState.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson36.TPL\05.TPL_AsyncState\obj\Debug\net7.0\05.TPL_AsyncState.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\05.TPL_AsyncState\obj\Debug\net7.0\05.TPL_AsyncState.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson36.TPL\05.TPL_AsyncState\obj\Debug\net7.0\05.TPL_AsyncState.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\05.TPL_AsyncState\obj\Debug\net7.0\05.TPL_AsyncState.dll
+D:\Projects\VS Projects\Lesson36.TPL\05.TPL_AsyncState\obj\Debug\net7.0\refint\05.TPL_AsyncState.dll
+D:\Projects\VS Projects\Lesson36.TPL\05.TPL_AsyncState\obj\Debug\net7.0\05.TPL_AsyncState.pdb
+D:\Projects\VS Projects\Lesson36.TPL\05.TPL_AsyncState\obj\Debug\net7.0\05.TPL_AsyncState.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson36.TPL\05.TPL_AsyncState\obj\Debug\net7.0\ref\05.TPL_AsyncState.dll

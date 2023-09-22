@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson36.TPL\03.TPL_Status\bin\Release\net7.0\03.TPL_Status.exe
+D:\Projects\VS Projects\Lesson36.TPL\03.TPL_Status\bin\Release\net7.0\03.TPL_Status.deps.json
+D:\Projects\VS Projects\Lesson36.TPL\03.TPL_Status\bin\Release\net7.0\03.TPL_Status.runtimeconfig.json
+D:\Projects\VS Projects\Lesson36.TPL\03.TPL_Status\bin\Release\net7.0\03.TPL_Status.dll
+D:\Projects\VS Projects\Lesson36.TPL\03.TPL_Status\bin\Release\net7.0\03.TPL_Status.pdb
+D:\Projects\VS Projects\Lesson36.TPL\03.TPL_Status\obj\Release\net7.0\03.TPL_Status.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson36.TPL\03.TPL_Status\obj\Release\net7.0\03.TPL_Status.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson36.TPL\03.TPL_Status\obj\Release\net7.0\03.TPL_Status.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\03.TPL_Status\obj\Release\net7.0\03.TPL_Status.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson36.TPL\03.TPL_Status\obj\Release\net7.0\03.TPL_Status.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\03.TPL_Status\obj\Release\net7.0\03.TPL_Status.dll
+D:\Projects\VS Projects\Lesson36.TPL\03.TPL_Status\obj\Release\net7.0\refint\03.TPL_Status.dll
+D:\Projects\VS Projects\Lesson36.TPL\03.TPL_Status\obj\Release\net7.0\03.TPL_Status.pdb
+D:\Projects\VS Projects\Lesson36.TPL\03.TPL_Status\obj\Release\net7.0\03.TPL_Status.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson36.TPL\03.TPL_Status\obj\Release\net7.0\ref\03.TPL_Status.dll

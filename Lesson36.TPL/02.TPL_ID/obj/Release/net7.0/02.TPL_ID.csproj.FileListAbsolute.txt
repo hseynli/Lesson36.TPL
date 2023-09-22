@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson36.TPL\02.TPL_ID\bin\Release\net7.0\02.TPL_ID.exe
+D:\Projects\VS Projects\Lesson36.TPL\02.TPL_ID\bin\Release\net7.0\02.TPL_ID.deps.json
+D:\Projects\VS Projects\Lesson36.TPL\02.TPL_ID\bin\Release\net7.0\02.TPL_ID.runtimeconfig.json
+D:\Projects\VS Projects\Lesson36.TPL\02.TPL_ID\bin\Release\net7.0\02.TPL_ID.dll
+D:\Projects\VS Projects\Lesson36.TPL\02.TPL_ID\bin\Release\net7.0\02.TPL_ID.pdb
+D:\Projects\VS Projects\Lesson36.TPL\02.TPL_ID\obj\Release\net7.0\02.TPL_ID.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson36.TPL\02.TPL_ID\obj\Release\net7.0\02.TPL_ID.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson36.TPL\02.TPL_ID\obj\Release\net7.0\02.TPL_ID.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\02.TPL_ID\obj\Release\net7.0\02.TPL_ID.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson36.TPL\02.TPL_ID\obj\Release\net7.0\02.TPL_ID.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\02.TPL_ID\obj\Release\net7.0\02.TPL_ID.dll
+D:\Projects\VS Projects\Lesson36.TPL\02.TPL_ID\obj\Release\net7.0\refint\02.TPL_ID.dll
+D:\Projects\VS Projects\Lesson36.TPL\02.TPL_ID\obj\Release\net7.0\02.TPL_ID.pdb
+D:\Projects\VS Projects\Lesson36.TPL\02.TPL_ID\obj\Release\net7.0\02.TPL_ID.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson36.TPL\02.TPL_ID\obj\Release\net7.0\ref\02.TPL_ID.dll

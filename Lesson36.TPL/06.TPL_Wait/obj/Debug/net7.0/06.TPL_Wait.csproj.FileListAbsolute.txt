@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson36.TPL\06.TPL_Wait\bin\Debug\net7.0\06.TPL_Wait.exe
+D:\Projects\VS Projects\Lesson36.TPL\06.TPL_Wait\bin\Debug\net7.0\06.TPL_Wait.deps.json
+D:\Projects\VS Projects\Lesson36.TPL\06.TPL_Wait\bin\Debug\net7.0\06.TPL_Wait.runtimeconfig.json
+D:\Projects\VS Projects\Lesson36.TPL\06.TPL_Wait\bin\Debug\net7.0\06.TPL_Wait.dll
+D:\Projects\VS Projects\Lesson36.TPL\06.TPL_Wait\bin\Debug\net7.0\06.TPL_Wait.pdb
+D:\Projects\VS Projects\Lesson36.TPL\06.TPL_Wait\obj\Debug\net7.0\06.TPL_Wait.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson36.TPL\06.TPL_Wait\obj\Debug\net7.0\06.TPL_Wait.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson36.TPL\06.TPL_Wait\obj\Debug\net7.0\06.TPL_Wait.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\06.TPL_Wait\obj\Debug\net7.0\06.TPL_Wait.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson36.TPL\06.TPL_Wait\obj\Debug\net7.0\06.TPL_Wait.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\06.TPL_Wait\obj\Debug\net7.0\06.TPL_Wait.dll
+D:\Projects\VS Projects\Lesson36.TPL\06.TPL_Wait\obj\Debug\net7.0\refint\06.TPL_Wait.dll
+D:\Projects\VS Projects\Lesson36.TPL\06.TPL_Wait\obj\Debug\net7.0\06.TPL_Wait.pdb
+D:\Projects\VS Projects\Lesson36.TPL\06.TPL_Wait\obj\Debug\net7.0\06.TPL_Wait.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson36.TPL\06.TPL_Wait\obj\Debug\net7.0\ref\06.TPL_Wait.dll

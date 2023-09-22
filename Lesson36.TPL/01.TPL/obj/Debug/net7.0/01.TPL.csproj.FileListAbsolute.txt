@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson36.TPL\01.TPL\bin\Debug\net7.0\01.TPL.exe
+D:\Projects\VS Projects\Lesson36.TPL\01.TPL\bin\Debug\net7.0\01.TPL.deps.json
+D:\Projects\VS Projects\Lesson36.TPL\01.TPL\bin\Debug\net7.0\01.TPL.runtimeconfig.json
+D:\Projects\VS Projects\Lesson36.TPL\01.TPL\bin\Debug\net7.0\01.TPL.dll
+D:\Projects\VS Projects\Lesson36.TPL\01.TPL\bin\Debug\net7.0\01.TPL.pdb
+D:\Projects\VS Projects\Lesson36.TPL\01.TPL\obj\Debug\net7.0\01.TPL.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson36.TPL\01.TPL\obj\Debug\net7.0\01.TPL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson36.TPL\01.TPL\obj\Debug\net7.0\01.TPL.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\01.TPL\obj\Debug\net7.0\01.TPL.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson36.TPL\01.TPL\obj\Debug\net7.0\01.TPL.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\01.TPL\obj\Debug\net7.0\01.TPL.dll
+D:\Projects\VS Projects\Lesson36.TPL\01.TPL\obj\Debug\net7.0\refint\01.TPL.dll
+D:\Projects\VS Projects\Lesson36.TPL\01.TPL\obj\Debug\net7.0\01.TPL.pdb
+D:\Projects\VS Projects\Lesson36.TPL\01.TPL\obj\Debug\net7.0\01.TPL.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson36.TPL\01.TPL\obj\Debug\net7.0\ref\01.TPL.dll

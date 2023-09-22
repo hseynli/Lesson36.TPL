@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson36.TPL\04.TPL_IsBackground\bin\Debug\net7.0\04.TPL_IsBackground.exe
+D:\Projects\VS Projects\Lesson36.TPL\04.TPL_IsBackground\bin\Debug\net7.0\04.TPL_IsBackground.deps.json
+D:\Projects\VS Projects\Lesson36.TPL\04.TPL_IsBackground\bin\Debug\net7.0\04.TPL_IsBackground.runtimeconfig.json
+D:\Projects\VS Projects\Lesson36.TPL\04.TPL_IsBackground\bin\Debug\net7.0\04.TPL_IsBackground.dll
+D:\Projects\VS Projects\Lesson36.TPL\04.TPL_IsBackground\bin\Debug\net7.0\04.TPL_IsBackground.pdb
+D:\Projects\VS Projects\Lesson36.TPL\04.TPL_IsBackground\obj\Debug\net7.0\04.TPL_IsBackground.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson36.TPL\04.TPL_IsBackground\obj\Debug\net7.0\04.TPL_IsBackground.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson36.TPL\04.TPL_IsBackground\obj\Debug\net7.0\04.TPL_IsBackground.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\04.TPL_IsBackground\obj\Debug\net7.0\04.TPL_IsBackground.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson36.TPL\04.TPL_IsBackground\obj\Debug\net7.0\04.TPL_IsBackground.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\04.TPL_IsBackground\obj\Debug\net7.0\04.TPL_IsBackground.dll
+D:\Projects\VS Projects\Lesson36.TPL\04.TPL_IsBackground\obj\Debug\net7.0\refint\04.TPL_IsBackground.dll
+D:\Projects\VS Projects\Lesson36.TPL\04.TPL_IsBackground\obj\Debug\net7.0\04.TPL_IsBackground.pdb
+D:\Projects\VS Projects\Lesson36.TPL\04.TPL_IsBackground\obj\Debug\net7.0\04.TPL_IsBackground.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson36.TPL\04.TPL_IsBackground\obj\Debug\net7.0\ref\04.TPL_IsBackground.dll

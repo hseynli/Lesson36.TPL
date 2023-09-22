@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson36.TPL\19\obj\Debug\net7.0\19.PLINQ.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson36.TPL\19\obj\Debug\net7.0\19.PLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson36.TPL\19\obj\Debug\net7.0\19.PLINQ.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\19\obj\Debug\net7.0\19.PLINQ.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson36.TPL\19\obj\Debug\net7.0\19.PLINQ.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\19\bin\Debug\net7.0\19.PLINQ.exe
+D:\Projects\VS Projects\Lesson36.TPL\19\bin\Debug\net7.0\19.PLINQ.deps.json
+D:\Projects\VS Projects\Lesson36.TPL\19\bin\Debug\net7.0\19.PLINQ.runtimeconfig.json
+D:\Projects\VS Projects\Lesson36.TPL\19\bin\Debug\net7.0\19.PLINQ.dll
+D:\Projects\VS Projects\Lesson36.TPL\19\bin\Debug\net7.0\19.PLINQ.pdb
+D:\Projects\VS Projects\Lesson36.TPL\19\obj\Debug\net7.0\19.PLINQ.dll
+D:\Projects\VS Projects\Lesson36.TPL\19\obj\Debug\net7.0\refint\19.PLINQ.dll
+D:\Projects\VS Projects\Lesson36.TPL\19\obj\Debug\net7.0\19.PLINQ.pdb
+D:\Projects\VS Projects\Lesson36.TPL\19\obj\Debug\net7.0\19.PLINQ.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson36.TPL\19\obj\Debug\net7.0\ref\19.PLINQ.dll

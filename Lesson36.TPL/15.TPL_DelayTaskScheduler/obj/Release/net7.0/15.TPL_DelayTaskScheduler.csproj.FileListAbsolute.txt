@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson36.TPL\15.TPL_DelayTaskScheduler\bin\Release\net7.0\15.TPL_DelayTaskScheduler.exe
+D:\Projects\VS Projects\Lesson36.TPL\15.TPL_DelayTaskScheduler\bin\Release\net7.0\15.TPL_DelayTaskScheduler.deps.json
+D:\Projects\VS Projects\Lesson36.TPL\15.TPL_DelayTaskScheduler\bin\Release\net7.0\15.TPL_DelayTaskScheduler.runtimeconfig.json
+D:\Projects\VS Projects\Lesson36.TPL\15.TPL_DelayTaskScheduler\bin\Release\net7.0\15.TPL_DelayTaskScheduler.dll
+D:\Projects\VS Projects\Lesson36.TPL\15.TPL_DelayTaskScheduler\bin\Release\net7.0\15.TPL_DelayTaskScheduler.pdb
+D:\Projects\VS Projects\Lesson36.TPL\15.TPL_DelayTaskScheduler\obj\Release\net7.0\15.TPL_DelayTaskScheduler.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson36.TPL\15.TPL_DelayTaskScheduler\obj\Release\net7.0\15.TPL_DelayTaskScheduler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson36.TPL\15.TPL_DelayTaskScheduler\obj\Release\net7.0\15.TPL_DelayTaskScheduler.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\15.TPL_DelayTaskScheduler\obj\Release\net7.0\15.TPL_DelayTaskScheduler.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson36.TPL\15.TPL_DelayTaskScheduler\obj\Release\net7.0\15.TPL_DelayTaskScheduler.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\15.TPL_DelayTaskScheduler\obj\Release\net7.0\15.TPL_DelayTaskScheduler.dll
+D:\Projects\VS Projects\Lesson36.TPL\15.TPL_DelayTaskScheduler\obj\Release\net7.0\refint\15.TPL_DelayTaskScheduler.dll
+D:\Projects\VS Projects\Lesson36.TPL\15.TPL_DelayTaskScheduler\obj\Release\net7.0\15.TPL_DelayTaskScheduler.pdb
+D:\Projects\VS Projects\Lesson36.TPL\15.TPL_DelayTaskScheduler\obj\Release\net7.0\15.TPL_DelayTaskScheduler.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson36.TPL\15.TPL_DelayTaskScheduler\obj\Release\net7.0\ref\15.TPL_DelayTaskScheduler.dll

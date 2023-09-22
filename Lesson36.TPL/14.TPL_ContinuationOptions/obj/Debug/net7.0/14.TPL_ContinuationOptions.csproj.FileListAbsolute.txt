@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson36.TPL\14.TPL_ContinuationOptions\bin\Debug\net7.0\14.TPL_ContinuationOptions.exe
+D:\Projects\VS Projects\Lesson36.TPL\14.TPL_ContinuationOptions\bin\Debug\net7.0\14.TPL_ContinuationOptions.deps.json
+D:\Projects\VS Projects\Lesson36.TPL\14.TPL_ContinuationOptions\bin\Debug\net7.0\14.TPL_ContinuationOptions.runtimeconfig.json
+D:\Projects\VS Projects\Lesson36.TPL\14.TPL_ContinuationOptions\bin\Debug\net7.0\14.TPL_ContinuationOptions.dll
+D:\Projects\VS Projects\Lesson36.TPL\14.TPL_ContinuationOptions\bin\Debug\net7.0\14.TPL_ContinuationOptions.pdb
+D:\Projects\VS Projects\Lesson36.TPL\14.TPL_ContinuationOptions\obj\Debug\net7.0\14.TPL_ContinuationOptions.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson36.TPL\14.TPL_ContinuationOptions\obj\Debug\net7.0\14.TPL_ContinuationOptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson36.TPL\14.TPL_ContinuationOptions\obj\Debug\net7.0\14.TPL_ContinuationOptions.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\14.TPL_ContinuationOptions\obj\Debug\net7.0\14.TPL_ContinuationOptions.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson36.TPL\14.TPL_ContinuationOptions\obj\Debug\net7.0\14.TPL_ContinuationOptions.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\14.TPL_ContinuationOptions\obj\Debug\net7.0\14.TPL_ContinuationOptions.dll
+D:\Projects\VS Projects\Lesson36.TPL\14.TPL_ContinuationOptions\obj\Debug\net7.0\refint\14.TPL_ContinuationOptions.dll
+D:\Projects\VS Projects\Lesson36.TPL\14.TPL_ContinuationOptions\obj\Debug\net7.0\14.TPL_ContinuationOptions.pdb
+D:\Projects\VS Projects\Lesson36.TPL\14.TPL_ContinuationOptions\obj\Debug\net7.0\14.TPL_ContinuationOptions.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson36.TPL\14.TPL_ContinuationOptions\obj\Debug\net7.0\ref\14.TPL_ContinuationOptions.dll

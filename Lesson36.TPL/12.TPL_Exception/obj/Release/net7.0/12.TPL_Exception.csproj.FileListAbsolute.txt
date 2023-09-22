@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson36.TPL\12.TPL_Exception\bin\Release\net7.0\12.TPL_Exception.exe
+D:\Projects\VS Projects\Lesson36.TPL\12.TPL_Exception\bin\Release\net7.0\12.TPL_Exception.deps.json
+D:\Projects\VS Projects\Lesson36.TPL\12.TPL_Exception\bin\Release\net7.0\12.TPL_Exception.runtimeconfig.json
+D:\Projects\VS Projects\Lesson36.TPL\12.TPL_Exception\bin\Release\net7.0\12.TPL_Exception.dll
+D:\Projects\VS Projects\Lesson36.TPL\12.TPL_Exception\bin\Release\net7.0\12.TPL_Exception.pdb
+D:\Projects\VS Projects\Lesson36.TPL\12.TPL_Exception\obj\Release\net7.0\12.TPL_Exception.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson36.TPL\12.TPL_Exception\obj\Release\net7.0\12.TPL_Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson36.TPL\12.TPL_Exception\obj\Release\net7.0\12.TPL_Exception.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\12.TPL_Exception\obj\Release\net7.0\12.TPL_Exception.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson36.TPL\12.TPL_Exception\obj\Release\net7.0\12.TPL_Exception.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\12.TPL_Exception\obj\Release\net7.0\12.TPL_Exception.dll
+D:\Projects\VS Projects\Lesson36.TPL\12.TPL_Exception\obj\Release\net7.0\refint\12.TPL_Exception.dll
+D:\Projects\VS Projects\Lesson36.TPL\12.TPL_Exception\obj\Release\net7.0\12.TPL_Exception.pdb
+D:\Projects\VS Projects\Lesson36.TPL\12.TPL_Exception\obj\Release\net7.0\12.TPL_Exception.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson36.TPL\12.TPL_Exception\obj\Release\net7.0\ref\12.TPL_Exception.dll

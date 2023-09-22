@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson36.TPL\11.TPL_Return\bin\Debug\net7.0\11.TPL_Return.exe
+D:\Projects\VS Projects\Lesson36.TPL\11.TPL_Return\bin\Debug\net7.0\11.TPL_Return.deps.json
+D:\Projects\VS Projects\Lesson36.TPL\11.TPL_Return\bin\Debug\net7.0\11.TPL_Return.runtimeconfig.json
+D:\Projects\VS Projects\Lesson36.TPL\11.TPL_Return\bin\Debug\net7.0\11.TPL_Return.dll
+D:\Projects\VS Projects\Lesson36.TPL\11.TPL_Return\bin\Debug\net7.0\11.TPL_Return.pdb
+D:\Projects\VS Projects\Lesson36.TPL\11.TPL_Return\obj\Debug\net7.0\11.TPL_Return.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson36.TPL\11.TPL_Return\obj\Debug\net7.0\11.TPL_Return.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson36.TPL\11.TPL_Return\obj\Debug\net7.0\11.TPL_Return.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\11.TPL_Return\obj\Debug\net7.0\11.TPL_Return.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson36.TPL\11.TPL_Return\obj\Debug\net7.0\11.TPL_Return.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson36.TPL\11.TPL_Return\obj\Debug\net7.0\11.TPL_Return.dll
+D:\Projects\VS Projects\Lesson36.TPL\11.TPL_Return\obj\Debug\net7.0\refint\11.TPL_Return.dll
+D:\Projects\VS Projects\Lesson36.TPL\11.TPL_Return\obj\Debug\net7.0\11.TPL_Return.pdb
+D:\Projects\VS Projects\Lesson36.TPL\11.TPL_Return\obj\Debug\net7.0\11.TPL_Return.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson36.TPL\11.TPL_Return\obj\Debug\net7.0\ref\11.TPL_Return.dll
